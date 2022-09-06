@@ -1,0 +1,33 @@
+[33mcommit c04d7e4d31dde055dc8e97755ed2cb5fec5ce908[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: shubhankarm01 <109141746+shubhankarm01@users.noreply.github.com>
+Date:   Tue Sep 6 11:27:53 2022 +0530
+
+    Create README.md
+    
+    ML classification on loan data to predict whether loan will default or not.
+
+[33mcommit cc2aa476c815245a5f4fc8841257887f9f0abcbf[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: shubhankarm01 <109141746+shubhankarm01@users.noreply.github.com>
+Date:   Sun Sep 4 19:59:29 2022 +0530
+
+    Version 3 - With py file
+
+[33mcommit 71021d4bf839f1e31ab97dd8171ee4fd14093b9f[m
+Author: shubhankarm01 <109141746+shubhankarm01@users.noreply.github.com>
+Date:   Wed Aug 17 19:30:46 2022 +0530
+
+    Delete Loan default prediction.py
+    
+    .ipynb is getting displayed on github
+
+[33mcommit 0672fae8ab25bfbbc8747a8ef33a66c717b3bcb8[m
+Author: shubhankarm01 <109141746+shubhankarm01@users.noreply.github.com>
+Date:   Wed Aug 17 19:14:59 2022 +0530
+
+    Version 2 - With streamlit webapp
+
+[33mcommit 3418f2d1e931d0d90a41fa0dd7e4459d00d43a1a[m
+Author: shubhankarm01 <shubhankarm01@gmail.com>
+Date:   Sun Jul 17 17:19:17 2022 +0530
+
+    Version 1 git_upload
