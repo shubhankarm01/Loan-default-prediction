@@ -1,4 +1,4 @@
-Loan default prediction
+# Loan default prediction
 
 The objective of this self-project was to automate the classification of a given loan as either default or non-default, which then can be used for assistance in loan disbursal or loan amount recovery. 
 
